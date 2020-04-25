@@ -11,3 +11,10 @@ You can navigate through the site from the navigation bar on top. The Training a
 I used HTML, CSS, and Bootstrap for this project so far.
 
 The next progression of the site would be to attach/upload all the programs to the Stronger, Faster, Conditioning, Athlete, and Mobility programs. My idea is to have a sample attached. Then if they are interested they can purchase 1-3 month programs through the site. Once I get my Precision Nutrition Certification I can add more to the Nutrition page in regards to nutrition coaching and plans. Another addition would be testimonials and possibly roll out soccer training programs as well.
+
+USER STORIES
+As an professional athlete, I can need a simple mobility program for while I'm in season.
+
+As a youth athlete, I need access to affordable training programs.
+
+As a stay at home mom, I need a personalized nutrition program to follow for my body and goals.
